@@ -28,13 +28,13 @@ hashMode: false
 address: ''
 
 # 自有部署后台登录密码
-password: admin
+password: YL299@xl
 
 # 自有部署启动端口
 port: 7777
 
 # 收录通知邮箱
-email: ''
+email: 'nav@hanson.dpdns.org'
 
 # 自有部署邮件通知系统
 mailConfig:
